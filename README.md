@@ -4,13 +4,21 @@ All algorithms are personally developed from scratch.
 
 Includes:
   Bubble Sort (optimized to break after the minimum number of iterations)
+  
   Selection Sort
+  
   Insertion Sort
+  
   Bucket Sort (Recursively applies the bucket sort into each bucket to decrease external reliance on other methods)
+  
   Quick Sort (Similar to a recursive two bucket sort)
+  
   Radix LSD Sort (Uses string manipulation to sort individual digit places)
+  
   Merge Sort
+  
   Cocktail Shaker Sort (Maximally optimized bubble sort)
+  
   
 All data from the tests is found in the .xlsx files or .docx to show the graphs
 
